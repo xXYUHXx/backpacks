@@ -25,12 +25,12 @@
     "advancements.backpacks.ender.desc": "Készíts el egy Ender Hátizsákot",
     "advancements.backpacks.max": "Most mi legyen?",
     "advancements.backpacks.max.desc": "Fejlessz fel egy hátizsákot a legmagasabb szintre",
-    "advancements.backpacks.style": "B*tch, I'm stylish",
-    "advancements.backpacks.style.desc": "Apply any style to any Backpack",
+    "advancements.backpacks.style": "Elegáns",
+    "advancements.backpacks.style.desc": "Alkalmazz bármilyen stílust, bármilyen hátizsákra",
 
-    "uninstall.backpacks.1": "Are you sure you want to uninstall the datapack? ",
-    "uninstall.backpacks.2": "[YES]",
-    "uninstall.backpacks.3": "Datapack uninstalled successfully, thanks for using it!",
+    "uninstall.backpacks.1": "Biztos hogy ki szeretnéd törölni a csomagot? ",
+    "uninstall.backpacks.2": "[Igen]",
+    "uninstall.backpacks.3": "A csomag sikeresen törölve lett, köszönjük hogy használtad!",
 
     "settings.backpacks.change_state": "Setting \"%s\" has been set to %s (defaults to %s)",
     "settings.backpacks.change_state.1": "Setting",
